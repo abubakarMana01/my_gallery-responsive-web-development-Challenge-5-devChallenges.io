@@ -147,4 +147,16 @@ footer p a {
 	.profile .info p {
 		font-size: 0.875rem;
 	}
+	.profile .stats > div {
+		width: 67px;
+		height: 55px;
+		border-radius: 12px;
+	}
+	.profile .stats > div h3 {
+		font-size: 0.9rem;
+	}
+
+	.profile .stats > div p {
+		font-size: 0.65rem;
+	}
 }
