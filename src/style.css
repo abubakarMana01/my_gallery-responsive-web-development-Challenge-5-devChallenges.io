@@ -137,7 +137,7 @@ footer p a {
 		width: 90%;
 		margin: 0rem auto 5rem auto;
 		display: grid;
-		grid-template-rows: repeat(3, auto-fit);
+		grid-template-rows: repeat(3, 105px);
 		grid-column-gap: 15px;
 		grid-row-gap: 15px;
 	}
